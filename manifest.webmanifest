@@ -1,0 +1,9 @@
+{
+  "name": "NEET Command Center",
+  "short_name": "NEET Center",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#080e19",
+  "theme_color": "#080e19",
+  "description": "NEET syllabus, daily tasks, revision planner and study timer."
+}
